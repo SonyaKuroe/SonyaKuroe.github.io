@@ -15,5 +15,16 @@ html, body {
     justify-content: center;
     align-items: center;
     height: 450px;
+    font-family: serif;
+    font-size: 50px;
     color: white;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+}
+
+
+.mein li{
+    float: left;
+    margin: 20 30;
+    
+
 }
