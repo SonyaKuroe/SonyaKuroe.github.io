@@ -24,7 +24,12 @@ html, body {
 
 .mein li{
     float: left;
-    margin: 20 30;
-    
+    padding:30px 60px;
+    font-size: 25px;
 
+}
+
+.footer{
+    background-color: darkgrey;
+    margin-top: 1000px;
 }
