@@ -22,12 +22,18 @@ html, body {
 }
 
 
-.mein li{
+.link a{
     float: left;
-    padding:30px 60px;
+    padding:25px 77px;
     font-size: 25px;
+    border:1px solid black;
+    line-height: 30px;
+    width: auto;
 
 }
+
+
+
 
 .footer{
     background-color: darkgrey;
